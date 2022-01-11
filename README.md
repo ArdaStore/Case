@@ -73,10 +73,10 @@ Klik Gambarnya
 
 
 
-[![ARDA](https://github.com/ArdaStore.png?size=100)](https://github.com/Nurutomo) | [![Nurutomo](https://github.com/officialdittaz.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Ftwrr](https://github.com/Ftwrr.png?size=100)](https://github.com/Ftwrr) 
+[![ARDA](https://github.com/ArdaStore.png?size=100)](https://github.com/ArdaStore) | [![DITTAZ](https://github.com/officialdittaz.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Ftwrr](https://github.com/Ftwrr.png?size=100)](https://github.com/Ftwrr) 
 ----|----|----|----
 [ARDA](https://github.com/ArdaStore) | [DITTAZ](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Ftwrr](https://github.com/Ftwrr)
-Creator | Developer Script | Most Active Contributor | 2nd Most Active Contributor
+Owner/Creator | Developer Script | Most Active Contributor | 2nd Most Active Contributor
 
 
 
