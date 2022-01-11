@@ -22,9 +22,8 @@
 - Owner name [ARDA](http://bit.ly/ArdaStore)
 - Botname [ARDA](http://bit.ly/ArdaStore)
 
-## `CHANGE DYNO`
+## `❒ 「 ARDA STORE 」 ❒`
 
-Off in web nya
 <p align="center">
   <a href="https://youtu.be/1O29YP2ZQn4"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
 </p>
@@ -35,7 +34,7 @@ Klik Gambarnya
 <p align="center">
   <a href="https://pslk.net/m2p3vq1p"><img src="https://g.top4top.io/p_2201pyfqk0.jpg" />
 </p>
-----------
+
 
 
 
