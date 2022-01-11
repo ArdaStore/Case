@@ -44,7 +44,7 @@ Off in web nya
 
 ## ```FAKE #1```
 <p align="center">
-  <a href="https://youtu.be/1O29YP2ZQn4"><img src="https://h.top4top.io/p_21608nxim0.jpg" />
+  <a href="https://bit.ly/ardaBotz"><img src="https://g.top4top.io/p_2201pyfqk0.jpg" />
 </p>
 
 ----------
