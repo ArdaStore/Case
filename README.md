@@ -16,7 +16,7 @@ Klik Gambarnya
 ## ```FAKE #2```
 Klik Gambarnya
 <p align="center">
-  <a href="https://pslk.net/m2p3vq1p"><img src="https://g.top4top.io/p_2201pyfqk0.jpg" />
+  <a href="https://pslk.net/nen2gad2"><img src="https://g.top4top.io/p_2201oogao0.jpg" />
 </p>
 
 
