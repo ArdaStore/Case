@@ -14,23 +14,13 @@
 
 -------
 
-## `ADD BUILDPACK`
 
-```
-> heroku/nodejs
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-> https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
-
-## `WHATSAPP ARDA`
-
-[`Click Here`](http://bit.ly/ArdaStore)
 
 ## `CREATOR`
 
-- Owner number [Here](http://bit.ly/ArdaStore)
-- Owner name [Here](http://bit.ly/ArdaStore)
-- Botname [Here](http://bit.ly/ArdaStore)
+- Owner number [ARDA](http://bit.ly/ArdaStore)
+- Owner name [ARDA](http://bit.ly/ArdaStore)
+- Botname [ARDA](http://bit.ly/ArdaStore)
 
 ## `CHANGE DYNO`
 
@@ -87,17 +77,18 @@ Off in web nya
 
 
 
-## ```COFFEE```
 
-- [`SAWERIA`](http://bit.ly/ArdaStore)
-
-## ```NGENTOD```
-
+## ```DOWNLOAD SC```
 - [`MEDIAFIRE`](https://github.com/ArdaStore)
 
 ## ```GROUP SUPPORT```
-
 - [`Ａｒｄａ亗`](https://chat.whatsapp.com/IPLDwbJCizZI6R2lsjxPzl)
+- [`WhatsApp`](http://bit.ly/ArdaStore)
+
+
+
+
+
 
 ## `THANKS TO`
 
