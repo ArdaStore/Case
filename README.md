@@ -82,12 +82,12 @@ Off in web nya
 - [`MEDIAFIRE`](https://github.com/ArdaStore)
 
 ## ```GROUP SUPPORT```
-- [`Ａｒｄａ亗`](https://chat.whatsapp.com/IPLDwbJCizZI6R2lsjxPzl)
-- [`WhatsApp`](http://bit.ly/ArdaStore)
+- MITING   [`JOIN`](https://chat.whatsapp.com/IPLDwbJCizZI6R2lsjxPzl)
+- EXTREAM  [`JOIN`](http://bit.ly/ArdaStore)
+- WhatsApp [`CHAT`](http://bit.ly/ArdaStore)
 
 
-
-
+----------
 
 
 ## `THANKS TO`
