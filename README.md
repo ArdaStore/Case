@@ -46,6 +46,42 @@ Off in web nya
 <p align="center">
   <a href="https://youtu.be/1O29YP2ZQn4"><img src="https://h.top4top.io/p_21608nxim0.jpg" />
 </p>
+## `SALIN FAKE #1`
+
+```
+> <ref *1> ExtendedTextMessage {
+  text: 'Punya fake ini ga bang @6285869074622',
+  previewType: 0,
+  jpegThumbnail: <Buffer ff d8 ff e0 00 10 4a 46 49 46 00 01 01 00 00 01 00 01 00 00 ff db 00 84 00 06 06 06 06 07 06 07 08 08 07 0a 0b 0a 0b 0a 0f 0e 0c 0c 0e 0f 16 10 11 10 ... 41804 more bytes>,
+  contextInfo: ContextInfo { mentionedJid: [ '6285869074622@s.whatsapp.net' ] },
+  mtype: 'extendedTextMessage',
+  id: '3EB057EB4275',
+  chat: '6285156137901-1632578387@g.us',
+  isBaileys: true,
+  sender: '62815246335491@s.whatsapp.net',
+  fromMe: true,
+  mentionedJid: [ '6285869074622@s.whatsapp.net' ],
+  fakeObj: WebMessageInfo {
+    messageStubParameters: [],
+    labels: [],
+    key: MessageKey {
+      remoteJid: '6285156137901-1632578387@g.us',
+      fromMe: true,
+      id: '3EB057EB4275'
+    },
+    message: Message { extendedTextMessage: [Circular *1] },
+    participant: '62815246335491@s.whatsapp.net'
+  },
+  reply: [Function (anonymous)],
+  copy: [Function (anonymous)],
+  forward: [Function (anonymous)],
+  copyNForward: [Function (anonymous)],
+  cMod: [Function (anonymous)],
+  delete: [Function (anonymous)]
+}
+```
+
+
 
 
 ## ```COFFEE```
