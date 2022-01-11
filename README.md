@@ -2,15 +2,16 @@
 <p align="center">
   <a href="https://bit.ly/ArdaSahaWA"><img src="https://j.top4top.io/p_2201fhvok0.jpg" />
 </p>
-
-
+----------
+\n
+\n
 
 ## ```FAKE #1```
 Klik Gambarnya
 <p align="center">
   <a href="https://pslk.net/m2p3vq1p"><img src="https://g.top4top.io/p_2201pyfqk0.jpg" />
 </p>
-
+----------
 
 
 
@@ -19,7 +20,6 @@ Klik Gambarnya
 
 ## ```DOWNLOAD SC```
 - SELFBOTZ [`DOWNLOAD`](https://github.com/ArdaStore)
-
 ----------
 
 
@@ -27,22 +27,18 @@ Klik Gambarnya
 - MITING   [`JOIN`](https://chat.whatsapp.com/IPLDwbJCizZI6R2lsjxPzl)
 - EXTREAM  [`JOIN`](https://bit.ly/ArdaSahaWA)
 - WhatsApp [`CHAT`](https://bit.ly/ArdaSahaWA)
-
-
 ----------
 
 
 ## `CREATOR`
-- Owner number [ARDA](https://bit.ly/ArdaSahaWA)
-- Owner name [ARDA](https://bit.ly/ArdaSahaWA)
+- Owner [ARDA](https://bit.ly/ArdaSahaWA)
+- Owner [ARDA](https://bit.ly/ArdaSahaWA)
 - Botname [ARDA](https://bit.ly/ArdaSahaWA)
-
 ----------
 
 
 
 ## `THANKS TO`
-
 - Allah SWT.
 - 𝗔𝗥𝗗𝗔⸙
 - 𝑨𝒓𝒅𝒂𝑩𝒐𝒕𝒛⸙
