@@ -17,14 +17,18 @@
 
 
 ## `CREATOR`
+- Owner number [ARDA](https://bit.ly/ArdaSahaWA)
+- Owner name [ARDA](https://bit.ly/ArdaSahaWA)
+- Botname [ARDA](https://bit.ly/ArdaSahaWA)
 
-- Owner number [ARDA](https://bit.ly/ardaBotz)
-- Owner name [ARDA](https://bit.ly/ardaBotz)
-- Botname [ARDA](https://bit.ly/ardaBotz)
+----------
+
+
+
 
 ## `「 ARDA STORE 」`
 <p align="center">
-  <a href="https://bit.ly/ardaBotz"><img src="https://j.top4top.io/p_2201fhvok0.jpg" />
+  <a href="https://bit.ly/ArdaSahaWA"><img src="https://j.top4top.io/p_2201fhvok0.jpg" />
 </p>
 
 
@@ -49,8 +53,8 @@ Klik Gambarnya
 
 ## ```GROUP SUPPORT```
 - MITING   [`JOIN`](https://chat.whatsapp.com/IPLDwbJCizZI6R2lsjxPzl)
-- EXTREAM  [`JOIN`](https://bit.ly/ardaBotz)
-- WhatsApp [`CHAT`](https://bit.ly/ardaBotz)
+- EXTREAM  [`JOIN`](https://bit.ly/ArdaSahaWA)
+- WhatsApp [`CHAT`](https://bit.ly/ArdaSahaWA)
 
 
 ----------
