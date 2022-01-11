@@ -2,17 +2,22 @@
 <p align="center">
   <a href="https://bit.ly/ArdaSahaWA"><img src="https://j.top4top.io/p_2201fhvok0.jpg" />
 </p>
-----------
-\n
-\n
+
+
+
 
 ## ```FAKE #1```
 Klik Gambarnya
 <p align="center">
   <a href="https://pslk.net/m2p3vq1p"><img src="https://g.top4top.io/p_2201pyfqk0.jpg" />
 </p>
-----------
 
+
+## ```FAKE #2```
+Klik Gambarnya
+<p align="center">
+  <a href="https://pslk.net/m2p3vq1p"><img src="https://g.top4top.io/p_2201pyfqk0.jpg" />
+</p>
 
 
 
