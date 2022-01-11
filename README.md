@@ -46,6 +46,9 @@ Off in web nya
 <p align="center">
   <a href="https://youtu.be/1O29YP2ZQn4"><img src="https://h.top4top.io/p_21608nxim0.jpg" />
 </p>
+
+----------
+
 ## `SALIN FAKE #1`
 
 ```
