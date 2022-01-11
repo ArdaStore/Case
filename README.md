@@ -42,12 +42,7 @@ Off in web nya
   <a href="https://youtu.be/1O29YP2ZQn4"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
 </p>
 
-## ```HOW TO DEPLOY```
-
-[`Click Here For Tutorial`](https://youtu.be/1O29YP2ZQn4)<br>
-
-----------
-
+## ```FAKE #1```
 <p align="center">
   <a href="https://youtu.be/1O29YP2ZQn4"><img src="https://h.top4top.io/p_21608nxim0.jpg" />
 </p>
